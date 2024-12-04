@@ -1,0 +1,1 @@
+//considere esse arquivo como um exemplo de um arquivo de script js, seja de uma funcionalidade de backend ou interface de usuário.
